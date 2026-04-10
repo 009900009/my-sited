@@ -12,7 +12,7 @@ text-align:center;
 }
 form{
 margin:auto;
-width:320px;
+width:370px;
 display:flex;
 flex-direction:column;
 }
